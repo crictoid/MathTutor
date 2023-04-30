@@ -1,0 +1,16 @@
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.exe.config
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.exe
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.pdb
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.xml
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.frmMathTutor.resources
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.Resources.resources
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.exe
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.xml
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.pdb
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.exe.manifest
+C:\Users\mdbul\source\repos\BulmerMathTutor\bin\Debug\BulmerMathTutor.application
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.exe.manifest
+C:\Users\mdbul\source\repos\BulmerMathTutor\obj\Debug\BulmerMathTutor.application
